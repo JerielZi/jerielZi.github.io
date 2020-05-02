@@ -26,9 +26,9 @@ If you have any question about this page you can find me here, <a href="https://
 
 ## Preview
 
-[![Resume Preview](https://github.com/JerielZi/jerielzinga.github.io/blob/master/img/screenshot_cv.png)](https://jerielzi.github.io/jerielzinga.github.io/)
+[![Resume Preview](https://github.com/JerielZi/jerielzinga.github.io/blob/master/img/screenshot_cv.png)](https://jerielzi.github.io/)
 
-**[View Live Preview](https://jerielzi.github.io/jerielzinga.github.io/)**
+**[View Live Preview](https://jerielzi.github.io/)**
 
 
 
