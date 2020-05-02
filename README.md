@@ -8,7 +8,7 @@ If you have any question about this page you can find me here, <a href="https://
 
 <p align="center">
 
-  <img alt="Repository size" src="https://img.shields.io/badge/Repository-size-brightgreen">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JerielZi/jerielZi.github.io">
   
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/JerielZi/jerielZi.github.io">
   
