@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://github.com/JerielZi/jerielzinga.github.io/blob/master/img/screenshot_cv.png)](https://jerielzi.github.io/jerielzinga.github.io/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://jerielzi.github.io/jerielzinga.github.io/)**
 
 ## Status
 
