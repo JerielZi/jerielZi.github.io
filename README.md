@@ -1,6 +1,6 @@
 # This page was created with a Bootstrap Template for my personal introduction and to show some projects that I developed.
 
-If you have any question about this page you can find me here, <a href="https://www.linkedin.com/in/jeriel-zinga-198636176/">LinkedIn</a>
+If you have any question about this page you can find me here, <a href="https://www.linkedin.com/in/jeriel-zinga-198636176/" target="_blank" >LinkedIn</a>
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
